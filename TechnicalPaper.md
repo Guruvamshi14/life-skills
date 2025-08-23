@@ -51,10 +51,4 @@ Caches often use **Data Structures** like:
 
 ---
 
-## Summary
-Caching improves performance by reducing repeated computations or data fetches.  
-From CPU to Web to Application-level caches, the underlying idea remains the same:  
-**Store data closer to where it is needed, when space is limited.**
-
-
 
